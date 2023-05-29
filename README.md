@@ -1,3 +1,5 @@
+YazLab1-1
+</br>
 # *WebScraping*
 </br>
 Trendrol, N11, Vatan Bilgisayar gibi e-ticaret sitelerinden web scraping kullanılarak bilgisayar kategorisine ait bilgiler alınmıştır ve SQLite kullanılarak, çekilen tüm veriler veritabanına kaydedilmiştir.
